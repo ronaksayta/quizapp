@@ -3,8 +3,7 @@
     "name": "Demo",
     "slug": "newApp",
     "privacy": "public",
-    "sdkVersion": "32.0.0",
-	"android": {
+    "android": {
       "package": "com.mindtree.demo"
     },
     "platforms": [

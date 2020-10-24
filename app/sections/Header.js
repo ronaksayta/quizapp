@@ -47,7 +47,7 @@ export class Header extends React.Component {
             <View style = {styles.headStyle}>
                 <Image 
                     style = {styles.logoStyle}
-                    source = { require('./img/logoImage.png')}
+                    source = { require('./img/logoImage.jpg')}
                 />
             <Text style = {styles.headText} onPress = {this.toggleUser}>{display}</Text>
             </View>
