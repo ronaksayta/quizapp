@@ -4,7 +4,7 @@
     "slug": "newApp",
     "privacy": "public",
     "android": {
-      "package": "com.mindtree.demo"
+      "package": "com.rtect.demo"
     },
     "platforms": [
       "ios",
